@@ -1,4 +1,4 @@
-# Optimizing Cinema Screening Schedules Using Stable Matching Algorithms #
+# Optimizing Cinema Screening Schedules Using Stable Matching Algorithms 
 
 This repository contains three Jupyter notebooks:
 
@@ -8,10 +8,10 @@ _main.ipynb_: Core analysis and model pipeline.
 
 _EDA.ipynb_: Exploratory data analysis.
 
-### Note: ### Exact datasets are not included. Running the notebooks as-is will not produce correct results without the proper data.
+### Note: Exact datasets are not included. Running the notebooks as-is will not produce correct results without the proper data.
 
 
-## Usage ##
+## Usage 
 
 Place the required datasets in the data/ folder.
 
